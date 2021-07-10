@@ -1,0 +1,182 @@
+body{
+    text-align: center !important;
+}
+/* Navigation Bar */
+.navigation{
+    display: flex;
+    padding: 15px 20px;
+    border-bottom: 2px solid #E8F6EF;
+}
+.logo{
+    width: 50px;
+    position: relative;
+    top: 2px;
+}
+nav{
+    position: relative;
+    top: 7px;
+}
+ul{
+    margin: 0px 170px;
+}
+li{
+    display: inline-block;
+    padding: 0px 40px;
+}
+.link{
+    color: #A7BBC7;
+    padding: 0px 2px 5px 2px;
+    font-family: 'Quicksand', sans-serif;
+}
+.link:hover{
+    text-decoration: none;
+    border-bottom: 2px solid #1EAE98; 
+    color: #1EAE98;
+}
+.search{
+    position: absolute;
+    right: 10px;
+}
+.search-option{
+    padding: 4px 8px;
+    position: relative;
+    top: 2px;
+    width: 230px;
+}
+
+/* Fashion Style */
+.profile{
+    margin-bottom: 100px;
+}
+.fashion1{
+    width: 60%;
+    float: right;
+    margin: 45px 40px 0px 0px;
+}
+.topic{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 20px 100px;
+    color: #1EAE98;
+}
+.text-title{
+    margin-top: 220px;
+}
+.my-text{
+    margin: 40px 165px;
+    padding: 0px 20px;
+    width: 48%;
+    text-align: center;
+    color: #C8C2BC;
+    font-size: 20px;
+}
+.line1{
+    width: 100px;
+}
+/* Profile 2 */
+.walkthrough{
+    margin: 70px 0px;
+}
+.show-profile{
+    width: 80%;
+    margin: 20px 100px !important;
+}
+.descrip{
+    margin: 85px 165px;
+    width: 48%;
+    text-align: center;
+    color: #C8C2BC;
+    font-size: 20px;
+}
+
+/* Discount Offer */
+.alert{
+    text-align: left;
+    margin: 30px 25px;
+}
+.offer-box{
+    padding: 0px 147px !important;
+}
+.buy{
+    background-color: #1EAE98;
+    color: #E8F6EF;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500 !important;
+    width: 140%;
+    border: 2px solid #1EAE98;
+    border-top: none;
+}
+.buy:hover{
+    color: #1B1A17;
+    background-color: #fff;
+    transition: 1.5s;
+}
+.dist{
+    border: 2px solid #1EAE98;
+    padding: 15px 5px;
+    width: 140%;
+}
+.num-offer{
+    padding-top: 10px;
+}
+
+/* Section*/
+.sect{
+    margin: 7% 0px;
+}
+.t-shirt{
+    width: 50%;
+}
+.shoe{
+    padding: 45px;
+    height: 89%;
+}
+.collect{
+    width: 50%;
+    height: 89%;
+    padding: 30px;
+}
+.items{
+    background-color: #F6F6F6;
+    width: 345px;
+}
+.money{
+    color: #1B1A17;
+}
+.money:hover{
+    color: #1EAE98;
+    text-decoration: none;
+}
+.fa-rupee-sign{
+    color: #1B1A17;
+}
+.fa-rupee-sign:hover{
+    color: #1EAE98;
+    text-decoration: none;
+}
+
+/* Button */
+.click-here{
+    border-color: #1EAE98 !important;
+    margin: 30px 0px;
+    color: #1EAE98 !important;
+    width: 20%;
+}
+.click-here:hover{
+    background-color: #1EAE98 !important;
+    color: #E8F6EF !important;
+}
+.click-here:focus{
+    box-shadow: none !important;
+}
+
+/* Footer */
+#footer{
+    background-color: #1EAE98;
+    padding: 30px 0px;
+    color: #E8F6EF;
+}
+.foot{
+    background-color: #1EAE98;
+}
